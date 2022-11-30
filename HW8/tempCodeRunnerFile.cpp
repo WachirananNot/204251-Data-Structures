@@ -1,0 +1,1 @@
+    cout << tree.get_depth(13) << endl;
